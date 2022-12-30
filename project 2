@@ -1,9 +1,3 @@
-# Python implementation of the approach
-
-# Function to print the characters
-# of the given String in decreasing
-# order of their frequencies
-# print("enter the:", str)
 
 
 def printChar(arr, Len):
